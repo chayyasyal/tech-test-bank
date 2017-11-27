@@ -1,0 +1,7 @@
+{
+  "name": "",
+  "version": "",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
