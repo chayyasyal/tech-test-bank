@@ -7,6 +7,8 @@ This is the first practice session of this week with an emphasis on producing th
 In this test I will practice OO design and TDD skills. At the end of the day I will also review my own code and reflect on the work I have done. I will share my thoughts in this document.
 
 ## Technologies used
+1. JavaScript
+2. Jasmine; testing framework
 
 ## Requirements
 To interact with code via a REPL like IRB or the JavaScript console. (There is no need to implement a command line interface that takes input from STDIN.) Deposits, withdrawal. Account statement (date, amount, balance) printing. Data can be kept in memory (it doesn't need to be stored to a database or anything). Acceptance criteria
