@@ -8,5 +8,5 @@ BankAccount.prototype.showBalance = function() {
 };
 
 BankAccount.prototype.increaseBalance = function() {
-  return this.balance+=1;
+  return this.balance++;
 };
