@@ -12,7 +12,7 @@ describe("Client", function (){
     });
 
     it("should let client deposit any sum of money in bank account", function (){
-      for(var i = 0; i > 999; i++)
+      for(var i = 0; i > 1000; i++)
       expect(client.increaseBalance).toEqual(1000);
     });
 });
