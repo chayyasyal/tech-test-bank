@@ -1,7 +1,7 @@
 "use strict";
 function Client(){
   this.viewBalance = 0;
-  // this.increaseBalance = 1000;
+  this.getIncreaseBalance = 1000;
 }
 
 Client.prototype.viewBalance = function () {
@@ -10,5 +10,5 @@ Client.prototype.viewBalance = function () {
 
 
 // Client.prototype.increaseBalance = function () {
-//   return this.balance;
+//   return this.getIncreaseBalance +=1;
 // };
